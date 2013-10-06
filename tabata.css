@@ -1,0 +1,23 @@
+body {
+    font-family: "Arial";
+}
+
+li  {
+    display: inline;
+    list-style-type: none;
+    padding-right: 200px;
+}
+
+#work {
+    padding-left: 200px;
+}
+
+#timer {
+    font-size: 100px;
+    padding-top: 200px;
+    padding-left: 480px;
+}
+
+#exercise {
+    padding-left: 570px;
+}
